@@ -34,7 +34,9 @@
     }
   },
   "environment": {
-    "uilayout": "editor-terminal"
+      "uilayout": "editor-terminal",
+      "showdashboard": true,
+      "dashboards":[{"Name": "Classify Login", "href":"https://classify.obedmr.com/login"}]
   },
   "backend": {
     "imageid": "golang:1.14"
