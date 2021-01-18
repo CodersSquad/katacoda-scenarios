@@ -6,24 +6,20 @@
   "details": {
     "steps": [
       {
-        "title": "Step 1",
-        "text": "step1.md"
+        "title": "Clone your class repository",
+        "text": "clone.md"
       },
       {
-        "title": "Step 2",
-        "text": "step2.md"
+        "title": "Create your Classify User",
+        "text": "create-user.md"
       },
       {
-        "title": "Step 3",
-        "text": "step3.md"
+        "title": "Verify your created User",
+        "text": "verify.md"
       },
       {
-        "title": "Step 4",
-        "text": "step4.md"
-      },
-      {
-        "title": "Step 5",
-        "text": "step5.md"
+        "title": "Don't forget your token",
+        "text": "token.md"
       }
     ],
     "intro": {
