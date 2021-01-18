@@ -34,7 +34,7 @@ Follow the section that applies for your class.
 
 - Run some testing commands
 
- `pwd`{{execute}}
+`pwd`{{execute}}
 `ls -la`{{execute}}
 `git remote -v`{{execute}}
 
