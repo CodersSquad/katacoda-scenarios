@@ -1,7 +1,7 @@
 This is an Introduction to the Classify API.
 
 Classify is a web-based API that serves as a code-based exercises collector and grader.
-Below some of the cool functions that classify has:
+Below some of the cool functions that Classify API has:
 
 - Multiple Schools, Classes and Labs support
 - Token-based authentication
