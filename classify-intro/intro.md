@@ -1,4 +1,4 @@
-This is an Introduction to the Classify System.
+This is an Introduction to the Classify API.
 
 Classify is a web-based API that serves as a code-based exercises collector and grader.
 Below some of the cool functions that classify has:
@@ -8,5 +8,8 @@ Below some of the cool functions that classify has:
 - Multiple attempts for lab submission
 - Simple `Submissions` and `Labs` reporting dashboards
 
-The main objective for this scenario is to create a new user in Classify.
-In future scenarios you will be able to explore more functions in Classify.
+
+**Learning Objectives**
+- To get an introduction to the Classify API
+- To create your first Classifier user
+- To execute basic validation commands for the new users
