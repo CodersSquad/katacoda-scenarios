@@ -1,6 +1,6 @@
 Welcome, this is the first step on this Classify Introduction journey.
 
-# Let's first clone your class croject
+# Let's first clone your class project
 You will be running one of the 2 following paths, it will depend in the class you're enrolled.
 Follow the section that applies for your class.
 
@@ -22,9 +22,9 @@ Follow the section that applies for your class.
 `git remote -v`{{execute}}
 
 
-## Distributed Systems
+## Distributed Computing
 
-- Clone our Advanced Programing Class project
+- Clone our Distributed Computing Class project
 
 `git clone https://github.com/CodersSquad/dc-labs.git`{{execute}}
 
