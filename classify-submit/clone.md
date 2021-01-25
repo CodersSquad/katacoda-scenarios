@@ -79,7 +79,7 @@ Once you're all set, let's go for it.
 There's a little `Fork` button at the top-right of the [class github
 project](#let-s-first-clone-your-class-project), **click it**.
 
-![github_fork](./images/github_fork.png)
+![github_fork](./assets/github_fork.png)
 
 It will ask some confirmation, say `yes`, it's safe.
 
