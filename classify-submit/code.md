@@ -1,5 +1,5 @@
 It's time for the fun part. We'll be working in the `test-lab` that is
-prepared in your class repository.
+prepared in your class repository. Let's move to that directory.
 
 `cd labs/test-lab`{{execute}}
 
@@ -18,10 +18,6 @@ All labs will container 4 common files:
 ## Let's code
 
 AS promised at the beginning, it's time for the fun. Let's code.
-
-- Let's move to the `labs/test-lab` directory
-
-``cd labs/test-lab``{{execute}}
 
 - Open the instructions file
 
