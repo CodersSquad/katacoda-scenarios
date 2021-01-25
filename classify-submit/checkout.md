@@ -1,42 +1,29 @@
-Welcome, this is the first step on this Classify Introduction journey.
+Now that your personal cloned repository is synced and up-to-date with
+the class github repository, we are ready to create our new lab's
+branch.
 
-# Let's first clone your class project
-You will be running one of the 2 following paths, it will depend in the class you're enrolled.
-Follow the section that applies for your class.
+For this exercise, we're going to use the `test-lab` branch name. It's
+highly recommended to name the branch as the lab's name.
 
+`git checkout -b test-lab`{{execute}}
 
-## Advanced Programming
-
-- Clone our Advanced Programing Class project
-
-`git clone https://github.com/CodersSquad/ap-labs.git`{{execute}}
-
-- Move into your new cloned project
-
-`cd ap-labs`{{execute}}
-
-- Run some testing commands
-
-`pwd`{{execute}}
-`ls -la`{{execute}}
-`git remote -v`{{execute}}
+*Note: This action will be executed one time per lab*
 
 
-## Distributed Computing
+Let's verify our new created branch:
 
-- Clone our Distributed Computing Class project
+`git branch`{{execute}}
 
-`git clone https://github.com/CodersSquad/dc-labs.git`{{execute}}
+you should see a list of branches and the one you just created should
+have little star symbol `*` at the beginning. In case that you cannot
+type more commands, type `q` and you will be out of that list.
 
-- Move into your new cloned project
+**Important**
+```
+All laboratories must be implemented in different branches than the
+master one. The master branch is ONLY for syncing purpuses.
+```
 
-`cd dc-labs`{{execute}}
+That's all, now you have a new branch that will be dedicated for your
+lab's solution.
 
-- Run some testing commands
-
-`pwd`{{execute}}
-`ls -la`{{execute}}
-`git remote -v`{{execute}}
-
-
-That's all, you got it. Now you have cloned you class repository in your environment.
