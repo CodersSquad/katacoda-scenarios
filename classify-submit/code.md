@@ -19,7 +19,7 @@ All labs will container 4 common files:
 
 AS promised at the beginning, it's time for the fun. Let's code.
 
-- Let's move to the `test-lab` directory
+- Let's move to the `labs/test-lab` directory
 
 ``cd labs/test-lab``{{execute}}
 
@@ -38,9 +38,9 @@ Most of the labs will include the proper automation to test it, check
 the `README.md` file, it will indicate how your program should be
 tested.
 
-This part is really important, this is going to be how the Classify
-API will test your app. So, make sure that your applications runs with
-the specified test cases.
+This last part is really important, this is going to be how the Classify
+API will test your app. So, make sure that your application runs with
+the provided test cases.
 
 ``make test``{{execute}}
 
