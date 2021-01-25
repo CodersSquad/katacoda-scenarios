@@ -1,15 +1,12 @@
-This is an Introduction to the Classify API.
+This is an initial guide for submittiong your firs lab to the Classify API.
 
-Classify is a web-based API that serves as a code-based exercises collector and grader.
-Below some of the cool functions that Classify API has:
+We'll go through the whole process from configuration to the submission part.
 
-- Multiple Schools, Classes and Labs support
-- Token-based authentication
-- Multiple attempts for lab submission
-- Simple `Submissions` and `Labs` reporting dashboards
-
+Keep in mind that these steps are really important in order to
+properly interact with the Classify API. Feel free to ask any question
+you may have in the process.
 
 **Learning Objectives**
-- To get an introduction to the Classify API
-- To create your first Classifier user
-- To execute basic validation commands for the new users
+- To configure your personal copy of the class repository
+- To create a new lab's branch and solve the test lab
+- To commit, push, submit and verify a lab's solution
