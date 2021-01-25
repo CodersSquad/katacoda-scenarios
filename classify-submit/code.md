@@ -21,12 +21,12 @@ AS promised at the beginning, it's time for the fun. Let's code.
 
 - Open the instructions file
 
-`README.md`{{open}}
+`dc-labs/labs/test-lab/README.md`{{open}}
 
 - You ready to code? let's open the source code file and implement the
 solution to this lab.
 
-`test-lab.go`{{open}}
+`dc-labs/labs/test-lab/test-lab.go`{{open}}
 
 - Are you done? OK, don't forget to test it a thousand times.
 
