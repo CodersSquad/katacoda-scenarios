@@ -19,14 +19,18 @@ All labs will container 4 common files:
 
 AS promised at the beginning, it's time for the fun. Let's code.
 
+- Let's move to the `test-lab` directory
+
+``cd labs/test-lab``{{execute}}
+
 - Open the instructions file
 
-`dc-labs/labs/test-lab/README.md`{{open}}
+`README.md`{{open}}
 
 - You ready to code? let's open the source code file and implement the
 solution to this lab.
 
-`dc-labs/labs/test-lab/test-lab.go`{{open}}
+`test-lab.go`{{open}}
 
 - Are you done? OK, don't forget to test it a thousand times.
 
