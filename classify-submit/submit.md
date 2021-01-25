@@ -35,7 +35,7 @@ adding everything at once.
 
 - Add the changed files (repeat this action for each changed file)
 
-``git add test-lab.go``
+``git add test-lab.go``{{execute}}
 
 
 - Commit it
