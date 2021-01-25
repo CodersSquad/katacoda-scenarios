@@ -43,6 +43,7 @@ adding everything at once.
 ``git commit -s -m "Solve test-lab"``{{execute}}
 
 For good commit messages guidelines go to:
+
 [How to crite a git commit message](https://chris.beams.io/posts/git-commit/)
 
 
