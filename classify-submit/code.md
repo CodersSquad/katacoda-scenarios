@@ -1,42 +1,43 @@
-Welcome, this is the first step on this Classify Introduction journey.
+It's time for the fun part. We'll be working in the `test-lab` that is
+prepared in your class repository.
 
-# Let's first clone your class project
-You will be running one of the 2 following paths, it will depend in the class you're enrolled.
-Follow the section that applies for your class.
+`cd labs/test-lab`{{execute}}
 
+All labs will container 4 common files:
 
-## Advanced Programming
-
-- Clone our Advanced Programing Class project
-
-`git clone https://github.com/CodersSquad/ap-labs.git`{{execute}}
-
-- Move into your new cloned project
-
-`cd ap-labs`{{execute}}
-
-- Run some testing commands
-
-`pwd`{{execute}}
-`ls -la`{{execute}}
-`git remote -v`{{execute}}
+- `Makefile` - Includes Classify automation commands. You don't need
+  to modify it.
+- `lab.mk` - Includes lab specific automation commands
+  (i.e. compilation, test). You don't need to modify it.
+- `README.md` - Includes lab's instructions.
+- `<source_code_file(s)>` - It can be one or multiple files, this is
+  where you will be coding your lab's solution. Make sure that you
+  work only on this file. Don't create new source code files.
 
 
-## Distributed Computing
+## Let's code
 
-- Clone our Distributed Computing Class project
+AS promised at the beginning, it's time for the fun. Let's code.
 
-`git clone https://github.com/CodersSquad/dc-labs.git`{{execute}}
+- Open the instructions file
 
-- Move into your new cloned project
+`README.md`{{open}}
 
-`cd dc-labs`{{execute}}
+- You ready to code? let's open the source code file and implement the
+solution to this lab.
 
-- Run some testing commands
+`test-lab.go`{{open}}
 
-`pwd`{{execute}}
-`ls -la`{{execute}}
-`git remote -v`{{execute}}
+- Are you done? OK, don't forget to test it a thousand times.
 
+Most of the labs will include the proper automation to test it, check
+the `README.md` file, it will indicate how your program should be
+tested.
 
-That's all, you got it. Now you have cloned you class repository in your environment.
+This part is really important, this is going to be how the Classify
+API will test your app. So, make sure that your applications runs with
+the specified test cases.
+
+`make test`
+
+Is it running as expected? cool. That's all, let's go to the submit section.

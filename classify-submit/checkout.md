@@ -7,7 +7,7 @@ highly recommended to name the branch as the lab's name.
 
 `git checkout -b test-lab`{{execute}}
 
-*Note: This action will be executed one time per lab*
+**Note:** *This action will be executed one time per lab*
 
 
 Let's verify our new created branch:
@@ -19,11 +19,8 @@ have little star symbol `*` at the beginning. In case that you cannot
 type more commands, type `q` and you will be out of that list.
 
 **Important**
-```
 All laboratories must be implemented in different branches than the
 master one. The master branch is ONLY for syncing purpuses.
-```
 
 That's all, now you have a new branch that will be dedicated for your
 lab's solution.
-

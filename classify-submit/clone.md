@@ -79,7 +79,7 @@ Once you're all set, let's go for it.
 There's a little `Fork` button at the top-right of the [class github
 project](#let-s-first-clone-your-class-project), **click it**.
 
-![github_fork](images/github_fork.png)
+![github_fork](./images/github_fork.png)
 
 It will ask some confirmation, say `yes`, it's safe.
 
@@ -89,13 +89,14 @@ It will ask some confirmation, say `yes`, it's safe.
 Now that you officially forked your class github repository, we need
 to add it as a remote source in your local cloned project.
 
-- From the following command replace the enclosed strings
+
+From the following command replace the enclosed strings
 `<github_accout>` to your personal github user account.
 
 `git remote add <your_github_account> https://github.com/<your_github_account>/dc-labs.git`{{execute no-newline}}
 
 
-- Let's verify that the new remote source has been properly created
+Let's verify that the new remote source has been properly created
 
 `git remote -v`{{execute}}
 

@@ -3,7 +3,7 @@ to develop. Every time that you're going to start a new lab, make sure
 that you sync first your local cloned repository in order to get the
 latest changes from the class github repository.
 
--  First, make sure you are located in the root path of the
+First, make sure you are located in the root path of the
 repository. You can run the following command to verify it.
 
 `pwd`{{execute}}
