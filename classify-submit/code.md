@@ -38,6 +38,6 @@ This part is really important, this is going to be how the Classify
 API will test your app. So, make sure that your applications runs with
 the specified test cases.
 
-`make test`
+``make test``{{execute}}
 
 Is it running as expected? cool. That's all, let's go to the submit section.
