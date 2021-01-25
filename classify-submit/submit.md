@@ -42,14 +42,14 @@ adding everything at once.
 
 ``git commit -s -m "Solve test-lab"``{{execute}}
 
-For good commit messages guidelines go to [How to crite a git commit
-message](https://chris.beams.io/posts/git-commit/)
+For good commit messages guidelines go to:
+[How to crite a git commit message](https://chris.beams.io/posts/git-commit/)
 
 
 It may ask you to configure your user's name and email. if so, run the
 following commands and the try the commit command again.
 
-``git config --global user.name "<Full Name>"{{execute no-newline}}
+``git config --global user.name "<Full Name>"``{{execute no-newline}}
 
 ``git config --global user.email "<your-email>"``{{execute no-newline}}
 
@@ -66,7 +66,7 @@ time to push it to your fork's remote source. If skip this step,
 Classify API will be able to download your code and it will not be
 able to grade it.
 
-``git push <your_github_account> <branch_name>``
+``git push <your_github_account> <branch_name>``{{execute no-newline}}
 
 
 ## Submit
