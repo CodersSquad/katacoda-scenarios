@@ -1,9 +1,9 @@
-Welcome, this is the first step on this Classify Introduction journey.
+Welcome, this is the first step for every new cloned project. Further
+steps will be the common ones for every lab in the future.
 
-
-**Important Note:** If you're running these steps in your personal
-computer, the following steps will be executed ONLY one time, you are
-not required to run them on every lab.
+If you're running these steps in your personal computer, the following
+instructions will be executed ONLY one time, you are not required to
+run them on every lab.
 
 
 # Let's first clone your class project
