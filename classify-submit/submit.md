@@ -22,7 +22,7 @@ katacoda scenario.
 
 - Add your Classify API token and your github account
 
-``git config --local classify.school-id <your_classify_token>``{{execute no-newline}}
+``git config --local classify.token <your_classify_token>``{{execute no-newline}}
 
 
 ## Commit

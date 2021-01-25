@@ -18,6 +18,7 @@ you should see a list of branches and the one you just created should
 have little star symbol `*` at the beginning. In case that you cannot
 type more commands, type `q` and you will be out of that list.
 
+
 **Important**
 All laboratories must be implemented in different branches than the
 master one. The master branch is ONLY for syncing purpuses.
