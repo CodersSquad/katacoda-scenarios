@@ -38,7 +38,7 @@ adding everything at once.
 
 ``git commit -s -m "Solve test-lab"``{{execute}}
 
-For good commit messages guidelines go to:
+For **good commit messages** guidelines go to:
 
 [How to create a git commit message](https://chris.beams.io/posts/git-commit/)
 
@@ -73,6 +73,7 @@ This is super easy.
 
 
 **Important**
+
 If you did all previous steps and then you need to do
 another change, don't worry, you can do the `commit`, `push` and
 `submit` as many times as needed before the lab's due date.

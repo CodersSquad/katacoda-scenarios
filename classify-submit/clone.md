@@ -74,8 +74,6 @@ following 2 requirements:
 
 Once you're all set, let's go for it.
 
-## Fork it
-
 There's a little `Fork` button at the top-right of the [class github
 project](#let-s-first-clone-your-class-project), **click it**.
 
@@ -107,7 +105,7 @@ You should have 2 tuples for the remote source:
 - `<your_github_account>` which points to your personal fork
 
 
-In case that failed in the url typing, you can remove the remote
+**In of ERROR** in the previous command, you can remove the remote
 resource and create it again. Below the command for removing a wrong
 remote source.
 
