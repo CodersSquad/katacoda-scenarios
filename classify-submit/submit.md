@@ -11,13 +11,9 @@ Classify API token, if so, go to the [Classify API
 Introduction](https://www.katacoda.com/coderssquad/scenarios/classify-intro)
 katacoda scenario.
 
-- Add your personal data into the local git config
-
-``git config --local classify.fullname "<Your Full Name>"``{{execute no-newline}}
+- Add your github user into the local git config
 
 ``git config --local classify.github-user <you_github_user>``{{execute no-newline}}
-
-``git config --local classify.school-id <your_school_id>``{{execute no-newline}}
 
 
 - Add your Classify API token and your github account
@@ -44,7 +40,7 @@ adding everything at once.
 
 For good commit messages guidelines go to:
 
-[How to crite a git commit message](https://chris.beams.io/posts/git-commit/)
+[How to create a git commit message](https://chris.beams.io/posts/git-commit/)
 
 
 It may ask you to configure your user's name and email. if so, run the
