@@ -23,11 +23,11 @@ AS promised at the beginning, it's time for the fun. Let's code.
 
 **Advanced Programming class**
 
-`ap-labs/labs/test-lab/test-lab.go`{{open}}
+`ap-labs/labs/test-lab/README.md`{{open}}
 
 **Distributed Computing class**
 
-`dc-labs/labs/test-lab/test-lab.go`{{open}}
+`dc-labs/labs/test-lab/README.md`{{open}}
 
 
 - You ready to code? let's open the source code file and implement the
