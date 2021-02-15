@@ -19,14 +19,28 @@ All labs will container 4 common files:
 
 AS promised at the beginning, it's time for the fun. Let's code.
 
-- Open the instructions file
+- Open the instructions file in the Katacoda Editor.
 
-`./labs/test-lab/README.md`{{open}}
+**Advanced Programming class**
+
+`ap-labs/labs/test-lab/test-lab.go`{{open}}
+
+**Distributed Computing class**
+
+`dc-labs/labs/test-lab/test-lab.go`{{open}}
+
 
 - You ready to code? let's open the source code file and implement the
 solution to this lab.
 
-`./labs/test-lab/test-lab.go`{{open}}
+**Advanced Programming class**
+
+`ap-labs/labs/test-lab/test-lab.go`{{open}}
+
+**Distributed Computing class**
+
+`dc-labs/labs/test-lab/test-lab.go`{{open}}
+
 
 - Are you done? OK, don't forget to test it a thousand times.
 
