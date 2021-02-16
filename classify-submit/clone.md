@@ -89,7 +89,16 @@ to add it as a remote source in your local cloned project.
 
 
 From the following command replace the enclosed strings
-`<github_accout>` to your personal github user account.
+`<github_accout>` to your personal github user account. Verify that
+you're running the right command for the class you're enrolled in.
+
+
+- **Advanced Programming Class**
+
+`git remote add <your_github_account> https://github.com/<your_github_account>/ap-labs.git`{{execute no-newline}}
+
+
+- **Distributed Computing Class**
 
 `git remote add <your_github_account> https://github.com/<your_github_account>/dc-labs.git`{{execute no-newline}}
 
