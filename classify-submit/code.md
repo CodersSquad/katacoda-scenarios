@@ -25,10 +25,6 @@ AS promised at the beginning, it's time for the fun. Let's code.
 
 `ap-labs/labs/test-lab/README.md`{{open}}
 
-**Distributed Computing class**
-
-`dc-labs/labs/test-lab/README.md`{{open}}
-
 
 - You ready to code? let's open the source code file and implement the
 solution to this lab.
@@ -36,11 +32,6 @@ solution to this lab.
 **Advanced Programming class**
 
 `ap-labs/labs/test-lab/test-lab.go`{{open}}
-
-**Distributed Computing class**
-
-`dc-labs/labs/test-lab/test-lab.go`{{open}}
-
 
 - Are you done? OK, don't forget to test it a thousand times.
 

@@ -8,11 +8,6 @@ run them on every lab.
 
 # Let's first clone your class project
 
-You will be running **ONLY** one of the 2 following paths, it will
-depend in the class you're enrolled.  Follow the section that applies
-for your class.
-
-
 ## Advanced Programming
 
 - Clone our Advanced Programing Class project
@@ -30,34 +25,13 @@ for your class.
 `git remote -v`{{execute}}
 
 
-## Distributed Computing
-
-- Clone our Distributed Computing Class project
-
-`git clone https://github.com/CodersSquad/dc-labs.git`{{execute}}
-
-- Move into your new cloned project
-
-`cd dc-labs`{{execute}}
-
-- Run some testing commands
-
-`pwd`{{execute}}
-`ls -la`{{execute}}
-`git remote -v`{{execute}}
-
-
 # Fork the project
 
 In order to submit your work to a place where you can have access to
 submit changes you will need to create a fork from the original
-repository. Below the links to the github projects that Classify API
-is currently supporting, click in the one that applies for your
-current class.
+repository.
 
 - [Advanced Programming Labs](https://github.com/CodersSquad/ap-labs/)
-
-- [Distributed Computing Labs](https://github.com/CodersSquad/dc-labs/)
 
 
 ## Fork it
@@ -96,12 +70,6 @@ you're running the right command for the class you're enrolled in.
 - **Advanced Programming Class**
 
 `git remote add <your_github_account> https://github.com/<your_github_account>/ap-labs.git`{{execute no-newline}}
-
-
-- **Distributed Computing Class**
-
-`git remote add <your_github_account> https://github.com/<your_github_account>/dc-labs.git`{{execute no-newline}}
-
 
 Let's verify that the new remote source has been properly created
 
